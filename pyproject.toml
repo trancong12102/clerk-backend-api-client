@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "weebuild-clerk-backend-api-client"
-version = "v24.08"
+version = "v24.08.27"
 description = "A client library for accessing Clerk Backend API"
 authors = []
 readme = "README.md"
